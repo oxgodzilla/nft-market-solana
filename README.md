@@ -342,6 +342,3 @@ When the button is clicked, the component HelloMessage will not re-render, it's 
 Reference:
 - https://reactjs.org/docs/context.html
 - https://dmitripavlutin.com/use-react-memo-wisely/
-
-
-
